@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "l6pmMTklQUADUEtAhbooHErJySuqGAb1Ctw9ut/Qggc=",
+  "Source": "PokemonBackend.Api",
+  "BasePath": "_content/PokemonBackend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

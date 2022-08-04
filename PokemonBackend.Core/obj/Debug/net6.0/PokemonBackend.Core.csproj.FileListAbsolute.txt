@@ -1,0 +1,12 @@
+D:\Projects\PokemonWebApp\PokemonBackend.Core\bin\Debug\net6.0\PokemonBackend.Core.deps.json
+D:\Projects\PokemonWebApp\PokemonBackend.Core\bin\Debug\net6.0\PokemonBackend.Core.dll
+D:\Projects\PokemonWebApp\PokemonBackend.Core\bin\Debug\net6.0\PokemonBackend.Core.pdb
+D:\Projects\PokemonWebApp\PokemonBackend.Core\obj\Debug\net6.0\PokemonBackend.Core.csproj.AssemblyReference.cache
+D:\Projects\PokemonWebApp\PokemonBackend.Core\obj\Debug\net6.0\PokemonBackend.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PokemonWebApp\PokemonBackend.Core\obj\Debug\net6.0\PokemonBackend.Core.AssemblyInfoInputs.cache
+D:\Projects\PokemonWebApp\PokemonBackend.Core\obj\Debug\net6.0\PokemonBackend.Core.AssemblyInfo.cs
+D:\Projects\PokemonWebApp\PokemonBackend.Core\obj\Debug\net6.0\PokemonBackend.Core.csproj.CoreCompileInputs.cache
+D:\Projects\PokemonWebApp\PokemonBackend.Core\obj\Debug\net6.0\PokemonBackend.Core.dll
+D:\Projects\PokemonWebApp\PokemonBackend.Core\obj\Debug\net6.0\refint\PokemonBackend.Core.dll
+D:\Projects\PokemonWebApp\PokemonBackend.Core\obj\Debug\net6.0\PokemonBackend.Core.pdb
+D:\Projects\PokemonWebApp\PokemonBackend.Core\obj\Debug\net6.0\ref\PokemonBackend.Core.dll
